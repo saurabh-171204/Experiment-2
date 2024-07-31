@@ -1,4 +1,4 @@
-//sumit pandey 23070123133 
+
 //experiment 2
 #include<iostream>
 using namespace std;
